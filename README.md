@@ -2,9 +2,10 @@
 ✨ My stats ✨<br>
 [![Yeonjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjoo7)](https://github.com/yeonjoo7/github-readme-stats)
 
-<img src="http://mazandi.herokuapp.com/api?handle=rladuswn7&theme=warm"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjoo7&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yeonjoo7/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladuswn7)](https://solved.ac/rladuswn7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjoo7)](https://github.com/yeonjoo7/github-readme-stats)
 
 <br>
 👩‍💻🌱 What I’m currently learning
