@@ -9,11 +9,6 @@
 
 
 <br>
-👩‍💻🌱 What I’m currently learning
-<br>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonjoo7)](https://velog.io/@yeonjoo7)
-
 
 
 
